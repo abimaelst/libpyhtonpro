@@ -13,4 +13,7 @@ pyparsing==2.0.2
 pluggy==0.13.1
 iniconfi==1.0.1
 pytest==6.0.1
+pytest-cov==2.10.1
+coverage==5.2.1
+
 -r requirements.txt
